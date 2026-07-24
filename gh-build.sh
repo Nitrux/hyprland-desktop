@@ -15,8 +15,8 @@ git_commit=$(git rev-parse --short HEAD 2>/dev/null)
 	"Section: misc" \
 	"Priority: required" \
 	"Homepage: https://nxos.org" \
-	"Package: hyprland-core" \
-	"Version: 0.0.4-$git_commit" \
+	"Package: hyprland-desktop" \
+	"Version: 0.0.5-$git_commit" \
 	"Maintainer: Uri Herrera <uri_herrera@nxos.org>" \
 	"Depends: $deps" \
 	"Architecture: all" \
