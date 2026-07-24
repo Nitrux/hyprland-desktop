@@ -1,6 +1,6 @@
 # Nitrux Hyprland Meta package
 
-This repository contains the source to create the `hyprland-core` metapackage.
+This repository contains the source to create the `hyprland-desktop` metapackage.
 
 # Issues
 
