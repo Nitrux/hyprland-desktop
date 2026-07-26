@@ -5,15 +5,35 @@
 
 hyprland
 hyprland-protocols
-hyprland-qt-support0
 hyprland-guiutils
 
 #    = Hyprland ecosystem =
 
+hyprcursor-util
 hypridle
+hyprlauncher
 hyprlock
 hyprpaper
+hyprpicker
 hyprpolkitagent
+hyprshutdown
 hyprsunset
 hyprwayland-scanner
+hyprwire-scanner
+
+#    = Hyprland plugins =
+
+hyprland-plugin-borders-plus-plus
+hyprland-plugin-csgo-vulkan-fix
+hyprland-plugin-hyprbars
+hyprland-plugin-hyprexpo
+hyprland-plugin-hyprfocus
+
+#    = Other software =
+
+xdg-desktop-portal-hyprland
 iio-hyprland
+
+#    = Supporting libraries =
+
+qml6-module-org-hyprland-style
