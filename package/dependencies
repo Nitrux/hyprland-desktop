@@ -21,12 +21,6 @@ hyprsunset
 hyprwayland-scanner
 hyprwire-scanner
 
-#    = Hyprland plugins =
-
-hyprland-plugin-csgo-vulkan-fix
-hyprland-plugin-hyprbars
-hyprland-plugin-hyprfocus
-
 #    = Other software =
 
 xdg-desktop-portal-hyprland
