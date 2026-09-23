@@ -9,6 +9,7 @@ hyprland-guiutils
 
 #    = Hyprland ecosystem =
 
+hyprcursor-util
 hypridle
 hyprpaper
 hyprsunset
@@ -21,5 +22,4 @@ xdg-desktop-portal-hyprland
 
 #    = Supporting libraries =
 
-libhyprcursor1
 qml6-module-org-hyprland-style
